@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UGD1_A_0181</string>
+    <string name="studentLogin">Student Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="usernameCorrect">190710181</string>
+    <string name="passwordCorrect">vito</string>
+    <string name="login">LOGIN</string>
+    <string name="clearField">CLEAR FIELD</string>
+    <string name="selamatdatang">Selamat Datang, </string>
+    <string name="apakahsoal">Apakah Soal UGD Modul 1 Sulit ?</string>
+    <string name="mudah">Mudah</string>
+    <string name="mudahsekali">Mudah Sekali</string>
+    <string name="mudahbanget">Mudah Banget</string>
+    <string name="submitjawaban">SUBMIT JAWABAN</string>
+</resources>
